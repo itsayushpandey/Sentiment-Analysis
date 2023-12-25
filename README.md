@@ -30,4 +30,5 @@ where a is the mean distance between a sample and all other points in the same c
 
 After finetuning the scrapped twwets on distillbert pretrained model we got around 50% of tweets as of positive sentiment which means that people are in favour of abortion ban which is counter intutive. Around 23% of tweets are of negative sentiment and around 27% of tweets are neutral in nature.
 
-![sentiment](https://github.com/itsayushpandey/Tweets-Sentiment-Analysis-Abortion-rights/assets/32012449/a9729ada-5d9f-40e5-bea8-b2cea084e56e)
+![Screenshot 2023-12-24 at 11 00 25 PM](https://github.com/itsayushpandey/Tweets-Sentiment-Analysis-Abortion-rights/assets/32012449/2aa4fa0a-5bb7-4038-a30b-b247c4d2f7bd)
+
