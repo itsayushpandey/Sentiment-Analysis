@@ -25,3 +25,8 @@ To go beyond this, we will also train an unsupervised clustering model on this c
 Evaluating the performance of a clustering algorithm is not as trivial as counting the number of errors or the precision and recall of a supervised classification algorithm. Since ground truth labels of the tweets are unknown, evaluation must be performed using the model itself. We will use the Silhouette Coefficient to evaluate the clustering model. It is defined as the following: 
 s=b-amax(a, b)
 where a is the mean distance between a sample and all other points in the same class, and b is the mean distance between a sample and all other points in the next nearest cluster.
+
+## Result:
+
+After finetuning the scrapped twwets on distillbert pretrained model we got around 60% of tweets as of positive sentiment which means that people are in favour of abortion ban which is counter intutive. Around 23% of tweets are of negative sentiment and around 17% of tweets are neutral in nature.
+
